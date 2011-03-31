@@ -11,7 +11,7 @@
 
     <scm>
         <connection>scm:git:ssh://github.com/quynguyen/${artifactId}.git</connection>
-        <developerConnection>scm:git:git://github.com:quynguyen/${artifactId}.git</developerConnection>
+        <developerConnection>scm:git:git://git@github.com:quynguyen/${artifactId}.git</developerConnection>
     </scm>
 
     <distributionManagement>
