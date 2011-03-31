@@ -10,6 +10,7 @@
     <inceptionYear>2009</inceptionYear>
 
     <scm>
+        <connection>scm:git:ssh://github.com/quynguyen/${artifactId}.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/quynguyen/${artifactId}.git</developerConnection>
     </scm>
 
